@@ -1,0 +1,51 @@
+body {
+  margin: 0 auto;
+  width: 80%;
+}
+nav {
+  background-color: blueviolet;
+  text-align: center;
+  padding: 40px;
+  font-size: 30px;
+  color: white;
+}
+#translator {
+  text-align: center;
+  margin-top: 40px;
+}
+#outputText {
+  border: 1px solid black;
+  height: 70px;
+  width: 70%;
+  margin: 0 auto;
+}
+textarea {
+  height: 70px;
+  width: 70%;
+  margin: 20px;
+  margin: 0 auto;
+}
+.customButton {
+  width: 80px;
+  height: 38px;
+  border-radius: 20px;
+  background-color: blueviolet;
+  color: white;
+  border: none;
+  margin: 20px;
+}
+.input {
+  height: 60px;
+  width: 80%;
+}
+#output {
+  margin: 0 auto;
+}
+footer {
+  margin-top: 40px;
+  text-align: center;
+  padding: 30px;
+  font-size: 17px;
+  color: white;
+  background-color: blueviolet;
+}
